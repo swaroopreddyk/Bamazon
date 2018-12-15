@@ -1,0 +1,20 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "An alternative to Amazon, but only CLI....GUI will be updated soon",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "console.table": "^0.10.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
