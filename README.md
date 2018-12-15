@@ -51,12 +51,12 @@ This is a shopping CLI app ...a fierce competitor to Amazon and we are **BAMAZON
 
 #### Customer Mode
 
-    ![Bamazon_Customer](./media/Bamazon_Customer.gif)
+    ![Bamazon_Customer](./Bamazon_Customer.gif)
 
 #### Manager Mode
 
-    ![Bamazon_Manager](./media/Bamazon_Manager.gif)
+    ![Bamazon_Manager](./Bamazon_Manager.gif)
     
 #### Supervisor Mode
 
-    ![Bamazon_Supervisor](./media/Bamazon_Supervisor.gif)
+    ![Bamazon_Supervisor](./Bamazon_Supervisor.gif)
