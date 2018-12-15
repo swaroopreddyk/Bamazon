@@ -53,7 +53,7 @@ Customer
     ![Bamazon_Customer](./img/Bamazon_Customer.gif)
 
 Manager
-    ![Bamazon_Manager](./Bamazon_Manager.gif)
+    ![Bamazon_Manager](./img/Bamazon_Manager.gif)
 
 Supervisor
-    ![Bamazon_Supervisor](./Bamazon_Supervisor.gif)
+    ![Bamazon_Supervisor](./img/Bamazon_Supervisor.gif)
