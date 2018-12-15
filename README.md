@@ -49,8 +49,11 @@ This is a shopping CLI app ...a fierce competitor to Amazon and we are **BAMAZON
 `npm install`
 3. Look at the below GIF's on the execution details  
 
+Customer 
     ![Bamazon_Customer](./img/Bamazon_Customer.gif)
 
+Manager
     ![Bamazon_Manager](./Bamazon_Manager.gif)
 
+Supervisor
     ![Bamazon_Supervisor](./Bamazon_Supervisor.gif)
