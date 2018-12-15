@@ -51,7 +51,7 @@ This is a shopping CLI app ...a fierce competitor to Amazon and we are **BAMAZON
 
 #### Customer Mode
 
-    ![Bamazon_Customer](./Bamazon_Customer.gif)
+    ![Bamazon_Customer](./img/Bamazon_Customer.gif)
 
 #### Manager Mode
 
